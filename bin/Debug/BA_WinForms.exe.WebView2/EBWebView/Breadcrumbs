@@ -1,0 +1,58 @@
+0:00:51 Tab4 StartNav17 #google #typed
+0:00:51 Tab4 FinishNav16
+0:00:51 Tab4 PageLoad
+0:00:51 Tab4 FinishNav17
+0:00:52 Tab4 PageLoad #google
+0:00:52 Tab4 StartNav18 #google #renderer-script #link
+0:00:52 Tab4 FinishNav18
+0:00:55 Tab4 StartNav19 #google #renderer-user #link
+0:00:55 Tab4 FinishNav19
+0:00:56 Tab4 StartNav20 #google #renderer-user #link
+0:00:56 Tab4 FinishNav20
+0:00:56 Tab4 StartNav21 #renderer-script #auto_subframe
+0:00:56 Tab4 FinishNav21
+0:00:56 Tab4 PageLoad
+0:01:00 Memory Pressure: Moderate
+0:01:03 Memory Pressure: Critical
+0:01:10 Memory Pressure: Critical
+0:01:10 Microsoft.NewBrowser_Popup
+0:01:11 Microsoft.BrowserList.AddBrowser
+0:01:11 Browser5 Insert active Tab5 at 0
+0:01:11 Tab5 StartNav22 #auto_toplevel
+0:01:11 Tab5 StartNav23 #google #typed
+0:01:11 Tab5 FinishNav22
+0:01:11 Tab5 PageLoad
+0:01:11 Tab5 FinishNav23
+0:01:12 Tab5 PageLoad #google
+0:01:12 Tab5 StartNav24 #google #renderer-script #link
+0:01:12 Tab5 FinishNav24
+0:01:15 Memory Pressure: Critical
+0:01:15 Tab5 StartNav25 #google #renderer-user #link
+0:01:15 Tab5 FinishNav25
+0:01:16 Tab5 StartNav26 #google #renderer-user #link
+0:01:16 Tab5 FinishNav26
+0:01:16 Tab5 StartNav27 #renderer-script #auto_subframe
+0:01:16 Tab5 FinishNav27
+0:01:16 Tab5 PageLoad
+0:01:20 Memory Pressure: Moderate
+0:01:22 Tab5 StartNav28 #google #renderer-user #link
+0:01:22 Tab5 FinishNav28
+0:01:23 Tab5 StartNav29 #google #renderer-user #link
+0:01:23 Tab5 FinishNav29
+0:01:24 Tab5 StartNav30 #google #renderer-user #link
+0:01:24 Tab5 FinishNav30
+0:01:30 Memory Pressure: Moderate
+0:01:30 Tab5 StartNav31 #renderer-script #auto_subframe
+0:01:31 Tab5 FinishNav31
+0:01:31 Tab5 PageLoad
+0:01:35 Memory Pressure: Critical
+0:01:40 Memory Pressure: Critical
+0:01:44 Widget Closed: StatusBubble
+0:01:45 Memory Pressure: Critical
+0:01:50 Memory Pressure: Critical
+0:02:00 Memory Pressure: Critical
+0:02:10 Memory Pressure: Critical
+0:02:20 Memory Pressure: Critical
+0:02:30 Memory Pressure: Critical
+0:02:40 Memory Pressure: Critical
+0:02:41 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications

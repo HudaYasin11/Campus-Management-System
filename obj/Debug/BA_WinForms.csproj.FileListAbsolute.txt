@@ -1,0 +1,126 @@
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.csproj.AssemblyReference.cache
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.LoginForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.MainMenuForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.Properties.Resources.resources
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.StartingForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.UI.RegisterForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.csproj.GenerateResource.cache
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.AdminPortalForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.UI.StudentManagementForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.UI.ApproveAdminForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.UI.CourseManagementForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.UI.StudentPortalForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.UI.TeacherManagementForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\BA_WinForms.exe.config
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\BA_WinForms.exe
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\BA_WinForms.pdb
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\BouncyCastle.Cryptography.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\Google.Protobuf.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\K4os.Compression.LZ4.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\K4os.Hash.xxHash.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\MySql.Data.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\System.Buffers.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\System.IO.Pipelines.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\System.Memory.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\System.Numerics.Vectors.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\ZstdSharp.dll
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\BouncyCastle.Cryptography.xml
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\Google.Protobuf.pdb
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\Google.Protobuf.xml
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\K4os.Compression.LZ4.xml
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\K4os.Hash.xxHash.xml
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\MySql.Data.xml
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\System.Buffers.xml
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\System.IO.Pipelines.xml
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\System.Memory.xml
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\System.Numerics.Vectors.xml
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinFo.FC3874A2.Up2Date
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.exe
+D:\SEMESTER 2\OOPS\BA_winforms\BA_WinForms\obj\Debug\BA_WinForms.pdb
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\BA_WinForms.exe.config
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\BA_WinForms.exe
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\BA_WinForms.pdb
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\BouncyCastle.Cryptography.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\Google.Protobuf.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\K4os.Compression.LZ4.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\K4os.Hash.xxHash.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\MySql.Data.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Buffers.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.IO.Pipelines.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Memory.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Numerics.Vectors.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\ZstdSharp.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\BouncyCastle.Cryptography.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\Google.Protobuf.pdb
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\Google.Protobuf.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\K4os.Compression.LZ4.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\K4os.Hash.xxHash.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\MySql.Data.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Buffers.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.IO.Pipelines.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Memory.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Numerics.Vectors.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.csproj.AssemblyReference.cache
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.AdminPortalForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.UI.ApproveAdminForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.UI.CourseManagementForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.LoginForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.MainMenuForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.Properties.Resources.resources
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.StartingForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.UI.RegisterForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.UI.StudentManagementForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.UI.StudentPortalForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.UI.TeacherManagementForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.csproj.GenerateResource.cache
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinFo.FC3874A2.Up2Date
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.exe
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.pdb
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\EntityFramework.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\EntityFramework.SqlServer.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\GMap.NET.Core.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\GMap.NET.WindowsForms.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\Newtonsoft.Json.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Data.SqlClient.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Data.SQLite.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Data.SQLite.EF6.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Data.SQLite.Linq.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Security.Principal.Windows.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\EntityFramework.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\EntityFramework.SqlServer.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\Newtonsoft.Json.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Data.SqlClient.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Data.SQLite.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\System.Security.Principal.Windows.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\obj\Debug\BA_WinForms.UI.MapForm.resources
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\SEMESTER 2\OOPS\BA_winforms - Copy\BA_WinForms\bin\Debug\Microsoft.Web.WebView2.Wpf.xml

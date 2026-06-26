@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|d:\\semester 2\\oops\\ba_winforms - copy\\ba_winforms\\ui\\studentportalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\studentportalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\mapform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\mapform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\mapform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\mapform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\studentportalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\studentportalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\database\\database_helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:database\\database_helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\bl\\studentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:bl\\studentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\bl\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:bl\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\bl\\teacherbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:bl\\teacherbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\bl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:bl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\teachermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\teachermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\approveadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\approveadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\studentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\studentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\adminportalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\adminportalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\coursemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\coursemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\teachermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\teachermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\studentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\studentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\adminportalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\adminportalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\approveadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\approveadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\coursemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\coursemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\startingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\startingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\ui\\startingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5AED695-0364-4EF9-9C86-DD9586B69600}|BA_WinForms.csproj|solutionrelative:ui\\startingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapForm.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\MapForm.cs",
+              "RelativeDocumentMoniker": "UI\\MapForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\MapForm.cs",
+              "RelativeToolTip": "UI\\MapForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T10:16:21.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapForm.cs [Design]",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\MapForm.cs",
+              "RelativeDocumentMoniker": "UI\\MapForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\MapForm.cs [Design]",
+              "RelativeToolTip": "UI\\MapForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T09:30:41.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapForm.Designer.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\MapForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\MapForm.Designer.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\MapForm.Designer.cs",
+              "RelativeToolTip": "UI\\MapForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T09:38:24.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentPortalForm.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\StudentPortalForm.cs",
+              "RelativeDocumentMoniker": "UI\\StudentPortalForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\StudentPortalForm.cs",
+              "RelativeToolTip": "UI\\StudentPortalForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:15:34.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapForm.resx",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\MapForm.resx",
+              "RelativeDocumentMoniker": "UI\\MapForm.resx",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\MapForm.resx",
+              "RelativeToolTip": "UI\\MapForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-26T09:38:24.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentPortalForm.cs [Design]",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\StudentPortalForm.cs",
+              "RelativeDocumentMoniker": "UI\\StudentPortalForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\StudentPortalForm.cs [Design]",
+              "RelativeToolTip": "UI\\StudentPortalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:02:15.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataBase_Helper.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\Database\\DataBase_Helper.cs",
+              "RelativeDocumentMoniker": "Database\\DataBase_Helper.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\Database\\DataBase_Helper.cs",
+              "RelativeToolTip": "Database\\DataBase_Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T06:19:00.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\BL\\Admin.cs",
+              "RelativeDocumentMoniker": "BL\\Admin.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\BL\\Admin.cs",
+              "RelativeToolTip": "BL\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:59:37.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\BL\\User.cs",
+              "RelativeDocumentMoniker": "BL\\User.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\BL\\User.cs",
+              "RelativeToolTip": "BL\\User.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T08:14:13.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentUser.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\BL\\StudentUser.cs",
+              "RelativeDocumentMoniker": "BL\\StudentUser.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\BL\\StudentUser.cs",
+              "RelativeToolTip": "BL\\StudentUser.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T08:01:39.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDL.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\DL\\StudentDL.cs",
+              "RelativeDocumentMoniker": "DL\\StudentDL.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\DL\\StudentDL.cs",
+              "RelativeToolTip": "DL\\StudentDL.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAEQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T06:19:10.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApproveAdminForm.cs [Design]",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\ApproveAdminForm.cs",
+              "RelativeDocumentMoniker": "UI\\ApproveAdminForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\ApproveAdminForm.cs [Design]",
+              "RelativeToolTip": "UI\\ApproveAdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T11:53:53.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "UI\\RegisterForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "UI\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:24:43.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserBL.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\BL\\UserBL.cs",
+              "RelativeDocumentMoniker": "BL\\UserBL.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\BL\\UserBL.cs",
+              "RelativeToolTip": "BL\\UserBL.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:57:29.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeacherBL.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\BL\\TeacherBL.cs",
+              "RelativeDocumentMoniker": "BL\\TeacherBL.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\BL\\TeacherBL.cs",
+              "RelativeToolTip": "BL\\TeacherBL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T12:30:44.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\TeacherManagementForm.cs",
+              "RelativeDocumentMoniker": "UI\\TeacherManagementForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\TeacherManagementForm.cs [Design]",
+              "RelativeToolTip": "UI\\TeacherManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:31:19.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "UI\\LoginForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\LoginForm.cs",
+              "RelativeToolTip": "UI\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:59:05.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\StudentManagementForm.cs",
+              "RelativeDocumentMoniker": "UI\\StudentManagementForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\StudentManagementForm.cs [Design]",
+              "RelativeToolTip": "UI\\StudentManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:28:32.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminPortalForm.cs [Design]",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\AdminPortalForm.cs",
+              "RelativeDocumentMoniker": "UI\\AdminPortalForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\AdminPortalForm.cs [Design]",
+              "RelativeToolTip": "UI\\AdminPortalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:13:42.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "UI\\LoginForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\LoginForm.cs [Design]",
+              "RelativeToolTip": "UI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:22:47.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainMenuForm.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "UI\\MainMenuForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\MainMenuForm.cs",
+              "RelativeToolTip": "UI\\MainMenuForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:41:00.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainMenuForm.cs [Design]",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "UI\\MainMenuForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\MainMenuForm.cs [Design]",
+              "RelativeToolTip": "UI\\MainMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:59:50.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CourseManagementForm.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\CourseManagementForm.cs",
+              "RelativeDocumentMoniker": "UI\\CourseManagementForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\CourseManagementForm.cs",
+              "RelativeToolTip": "UI\\CourseManagementForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:40:39.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TeacherManagementForm.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\TeacherManagementForm.cs",
+              "RelativeDocumentMoniker": "UI\\TeacherManagementForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\TeacherManagementForm.cs",
+              "RelativeToolTip": "UI\\TeacherManagementForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:30:34.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentManagementForm.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\StudentManagementForm.cs",
+              "RelativeDocumentMoniker": "UI\\StudentManagementForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\StudentManagementForm.cs",
+              "RelativeToolTip": "UI\\StudentManagementForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T11:23:34.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminPortalForm.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\AdminPortalForm.cs",
+              "RelativeDocumentMoniker": "UI\\AdminPortalForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\AdminPortalForm.cs",
+              "RelativeToolTip": "UI\\AdminPortalForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:24:13.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T22:05:44.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CourseManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\CourseManagementForm.cs",
+              "RelativeDocumentMoniker": "UI\\CourseManagementForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\CourseManagementForm.cs [Design]",
+              "RelativeToolTip": "UI\\CourseManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T02:54:23.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApproveAdminForm.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\ApproveAdminForm.cs",
+              "RelativeDocumentMoniker": "UI\\ApproveAdminForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\ApproveAdminForm.cs",
+              "RelativeToolTip": "UI\\ApproveAdminForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:49:31.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StartingForm.cs",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\StartingForm.cs",
+              "RelativeDocumentMoniker": "UI\\StartingForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\StartingForm.cs",
+              "RelativeToolTip": "UI\\StartingForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:09:44.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StartingForm.cs [Design]",
+              "DocumentMoniker": "D:\\SEMESTER 2\\OOPS\\BA_winforms - Copy\\BA_WinForms\\UI\\StartingForm.cs",
+              "RelativeDocumentMoniker": "UI\\StartingForm.cs",
+              "ToolTip": "D:\\SEMESTER 2\\OOPS\\BA_winforms\\BA_WinForms\\UI\\StartingForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\BA_winforms\\BA_WinForms\\UI\\StartingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:09:33.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
