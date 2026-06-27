@@ -12,6 +12,7 @@ A Windows Forms application for managing university operations including student
  🛠️ Technologies
 - C# Windows Forms
 - MySQL Database
+## ARCHITECTURE
 - 3-Tier Architecture (UI, BL, DL)
 - OOP Principles (Encapsulation, Inheritance, Polymorphism, Abstraction)
 
